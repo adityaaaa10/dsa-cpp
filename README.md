@@ -7,8 +7,6 @@
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/adityaaaa10/dsa-cpp?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/adityaaaa10/dsa-cpp?style=flat-square)
-![Stars](https://img.shields.io/github/stars/adityaaaa10/dsa-cpp?style=flat-square)
 
 </div>
 
@@ -36,7 +34,6 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 | 6 | Arrays | 
 
 
-✅ Done &nbsp;&nbsp; 🔄 In Progress &nbsp;&nbsp; ⏳ Not Started
 
 ---
 
