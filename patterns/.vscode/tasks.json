@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build & Run",
+      "type": "shell",
+      "command": "g++ ${workspaceFolder}/demo.cpp -o ${workspaceFolder}/demo.exe && ${workspaceFolder}/demo.exe < ${workspaceFolder}/input.txt > ${workspaceFolder}/output.txt",
+      "options": {
+        "shell": {
+          "executable": "cmd.exe",
+          "args": ["/d", "/c"]
+        }
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
