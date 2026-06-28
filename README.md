@@ -29,9 +29,9 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 | 2 | Patterns |  
 | 3 | Recursion | 
 | 4 | Basic maths| 
-| 4 | Hashing | 
-| 5 | Sorting | 
-| 6 | Arrays | 
+| 5 | Hashing | 
+| 6 | Sorting | 
+| 7 | Arrays | 
 
 
 
