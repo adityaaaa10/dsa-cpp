@@ -17,7 +17,7 @@
 This repo is where I track my long-term DSA practice — built one topic at a time, in C++, with no fixed problem count or deadline. Each folder represents a topic, and grows over time as I revisit and add more problems.
 
 **Stack:** C++
-**Started:** June 2025
+**Started:** June 2026
 
 ---
 
