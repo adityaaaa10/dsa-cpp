@@ -25,23 +25,16 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 
 ## 🗂️ Topic Index
 
-| # | Topic | Status |
-|---|-------|--------|
-| 1 | C++ Basics | ✅ |
-| 2 | Patterns | ✅ |
-| 3 | Recursion | ✅ |
-| 4 | Sorting | 🔄 |
-| 5 | Hashing | 🔄 |
-| 6 | Arrays | ⏳ |
-| 7 | Strings | ⏳ |
-| 8 | Two Pointers | ⏳ |
-| 9 | Linked Lists | ⏳ |
-| 10 | Stacks & Queues | ⏳ |
-| 11 | Trees | ⏳ |
-| 12 | Binary Search Trees | ⏳ |
-| 13 | Heaps | ⏳ |
-| 14 | Graphs | ⏳ |
-| 15 | Dynamic Programming | ⏳ |
+| # | Topic | 
+|---|-------|
+| 1 | C++ Basics |  
+| 2 | Patterns |  
+| 3 | Recursion | 
+| 4 | Basic maths| 
+| 4 | Sorting | 
+| 5 | Hashing | 
+| 6 | Arrays | 
+
 
 ✅ Done &nbsp;&nbsp; 🔄 In Progress &nbsp;&nbsp; ⏳ Not Started
 
@@ -53,13 +46,6 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 <summary><b>Arrays</b></summary>
 
 - [ ] Largest / Second Largest Element
-- [ ] Check if Array is Sorted
-- [ ] Remove Duplicates from Sorted Array
-- [ ] Left Rotate Array
-- [ ] Move Zeros to End
-- [ ] Two Pointers / Sliding Window basics
-- [ ] Kadane's Algorithm (Max Subarray Sum)
-- [ ] Next Permutation
 
 </details>
 
