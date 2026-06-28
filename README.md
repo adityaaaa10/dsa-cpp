@@ -79,22 +79,6 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 
 ---
 
-## 📝 Problems Solved
-
-| # | Problem | Topic | Date |
-|---|---------|-------|------|
-| 1 |  |  |  |
-| 2 |  |  |  |
-
----
-
-## 📈 Progress Log
-
-| Date | Update |
-|------|--------|
-| June 2026 | Completed C++ Basics, Patterns, Recursion. Started Hashing. |
-
----
 
 ## 🛠️ Workflow
 
