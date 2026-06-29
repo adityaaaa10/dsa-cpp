@@ -35,7 +35,7 @@ using namespace std;
 
     }
     int fact(int n){  //functional
-        if(n==0) return 1;  //factorial
+      c  if(n==0) return 1;  //factorial
         return n * fact(n-1);
 
     }
