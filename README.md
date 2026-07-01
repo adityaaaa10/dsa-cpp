@@ -42,19 +42,26 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 <details>
 <summary><b>Arrays</b></summary>
 
-- [ ] Largest / Second Largest Element
+- [ ] Largest element
+- [ ] Second Largest Element ⭐
+- [ ] Check if an Array is Sorted 
+- [ ] Remove Duplicates in-place from Sorted Array ⭐
+- [ ] Rotate array by K elements ⭐
+- [ ] Move all Zeros to the end of the array ⭐
+- [ ] Union of Two Sorted Arrays ⭐
+- [ ] Intersection of two sorted arrays 
 
 </details>
 
 <details>
-<summary><b>Strings</b></summary>
+<summary><b>Binary Search</b></summary>
 
 -
 
 </details>
 
 <details>
-<summary><b>Trees</b></summary>
+<summary><b>Strings</b></summary>
 
 -
 
