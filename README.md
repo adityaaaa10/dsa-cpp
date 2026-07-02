@@ -49,7 +49,10 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 - [ ] Rotate array by K elements ⭐
 - [ ] Move all Zeros to the end of the array ⭐
 - [ ] Union of Two Sorted Arrays ⭐
-- [ ] Intersection of two sorted arrays 
+- [ ] Intersection of two sorted arrays
+- [ ] Find Missing Number
+- [ ] Maximum Consecutive 1's
+- [ ] Find The Number that appears once rest twice
 
 </details>
 
