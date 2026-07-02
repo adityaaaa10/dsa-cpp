@@ -6,7 +6,6 @@
 
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/adityaaaa10/dsa-cpp?style=flat-square)
 
 </div>
 
@@ -53,6 +52,7 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 - [ ] Find Missing Number
 - [ ] Maximum Consecutive 1's
 - [ ] Find The Number that appears once rest twice
+- [ ] Two sum ⭐
 
 </details>
 
