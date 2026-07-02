@@ -30,7 +30,8 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 | 4 | Basic maths| 
 | 5 | Hashing | 
 | 6 | Sorting | 
-| 7 | Arrays | 
+| 7 | Arrays |    Main topic starts here
+| 8 | Binary Search|
 
 
 
