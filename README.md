@@ -54,6 +54,11 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 - [ ] Maximum Consecutive 1's
 - [ ] Find The Number that appears once rest twice
 - [ ] Two sum ⭐
+- [ ] longest Subarray With Sum K ⭐
+- [ ] Subarrays with sum k
+- [ ] Sort array of 1,2,3(Dutch Flag Method) ⭐
+- [ ] majority element 1 (Moore's voting algo) (  element > n/2 ) ⭐
+- [ ] kadane's Algo ⭐
 
 </details>
 
