@@ -18,7 +18,7 @@ vector<int> twoSum(vector<int> &nums, int target)
     return {-1, -1};
 }
 
-// return yes or no without use of hash so SC > o(1)
+// return yes or no without use of hashmap so SC > o(1)
 
 string read(vector<int> &nums, int target)
 {
