@@ -59,6 +59,10 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 - [ ] Sort array of 1,2,3(Dutch Flag Method) ⭐
 - [ ] majority element 1 (Moore's voting algo) (  element > n/2 ) ⭐
 - [ ] Maximum Subarray sum > kadane's Algo ⭐
+- [ ] Rearrange elements By sign ⭐
+- [ ] best Time to buy and sell stock ⭐
+- [ ] next permutation ⭐
+- [ ] Leader in array
 
 </details>
 
