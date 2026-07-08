@@ -2,7 +2,7 @@
 using namespace std;
 
 int longestSubarray(vector<int> &nums, int k)
-{                      // TC > O(n) //SC > O(1)
+{                      // TC > O(n) //SC > O(n)
     map<int, int> mpp; // Use when array is mix with positvie and negatives
     int len = 0;
     int sum = 0;
