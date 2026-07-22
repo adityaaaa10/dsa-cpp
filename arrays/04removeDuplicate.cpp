@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-//two pointer approach
+//two pointer approachh
 
 class Solution {
 public:
