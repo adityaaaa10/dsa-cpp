@@ -31,7 +31,7 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 | 5 | Hashing | 
 | 6 | Sorting | 
 | 7 | Arrays ( Main topic starts ⬇️)|   
-| 8 | Binary Search|
+| 8 | Stack and Queue|
 
 
 
@@ -67,7 +67,7 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 </details>
 
 <details>
-<summary><b>Binary Search</b></summary>
+<summary><b>Stack and Queue</b></summary>
 
 -
 
