@@ -2,7 +2,7 @@
 using namespace std;
 
 //traversing from both sides and calculating the max height from left and right and then calculating the water trapped at each index
-
+//Two pointer approach
 class Solution {
 public:
     int trap(vector<int>& height) {
