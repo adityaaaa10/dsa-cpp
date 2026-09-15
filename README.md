@@ -32,6 +32,7 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 | 6 | Sorting | 
 | 7 | Arrays ( Main topic starts ⬇️)|   
 | 8 | Stack and Queue|
+| 9 | LinkedList |
 
 
 
@@ -74,7 +75,7 @@ This repo is where I track my long-term DSA practice — built one topic at a ti
 </details>
 
 <details>
-<summary><b>Strings</b></summary>
+<summary><b>LinkedList</b></summary>
 
 -
 
